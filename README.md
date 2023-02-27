@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Beyza 👋</h1>
+<h3 align="center">a computer engineering student in İstanbul</h3>
 
-<!--
-**beyzayildizli/beyzayildizli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I use **Java** and **C** programming languages
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔗 How to reach me **beyzayildizli10@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/beyzayildizli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beyzayildizli" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/yazilim.seruvenim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yazilim.seruvenim" height="30" width="40" /></a>
+  <a href="https://https://www.youtube.com/channel/UCsffngg0ftX4ErYlDqQPkAA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@beyzayildizli" height="30" width="40" /></a>
+</p>
