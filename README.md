@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Beyza 👋</h1>
 <h3 align="center">a computer engineering student in İstanbul</h3>
 
-- 💻 I use **Java** and **C** programming languages
+- 💻 I use **Java**, **C** and **Python** programming languages
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Unity** and **C#**
 
 - 🔗 How to reach me **beyzayildizli10@gmail.com**
 
